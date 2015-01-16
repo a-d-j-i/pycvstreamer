@@ -11,3 +11,4 @@ The idea is to have someting like motion ( http://motion.sourceforge.net/ ) and
 mjpg-streamer ( http://sourceforge.net/projects/mjpg-streamer/ ) but leaving
 some space to plug quickly different opencv/web routines and experiments.
 
+Needs: python-opencv and python-imaging
